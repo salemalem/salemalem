@@ -1,7 +1,3 @@
-Here’s a **clean, modern, shorter, more aesthetic** GitHub profile README for you.
-No broken images. No clutter. Straight to the point: **BlockHacks.io** + **NPMScan.com** + your builder / nomad identity.
-
----
 
 # 👋 Hi, I'm **Shyngys Shynbolatov**
 
