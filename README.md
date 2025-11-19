@@ -44,7 +44,7 @@
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=salemalem\&layout=compact\&theme=tokyonight\&hide_border=true)
 
-![Streak](https://github-readme-streak-stats.herokuapp.com/?user=salemalem\&theme=tokyonight\&hide_border=true)
+![Streak](https://streak-stats.demolab.com/?user=salemalem&theme=tokyonight&hide_border=true)
 
 ---
 
